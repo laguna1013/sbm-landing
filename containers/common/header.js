@@ -30,7 +30,7 @@ const Header = props => {
                   <Nav />
 
                   <div className="top-header-right">
-                    <Link href={"/shop/auth/login"}>
+                    <Link href={"/"}>
                       <a href="/" style={{color: 'white'}}>
                         <span>Login</span>
                       </a>

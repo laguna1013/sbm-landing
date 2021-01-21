@@ -17,14 +17,15 @@ const Banner = () => {
                       <h1>Powerful services</h1>
                     </div>
                     <div className="header-sub-text">
-                      <h3 className="saas2-sub-text">For Powerful <span className="bold-text">Desktop App</span>
+                      <h3 className="saas2-sub-text">For Stores
                       </h3>
                     </div>
                     <div className="header-sub-text">
-                      <p className="sub-para text-white">Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry. Lorem Ipsum has beeN</p>
+                      <p className="sub-para text-white">
+                        SBM technology provides services to manage your stores and business. 
+                      </p>
                     </div>
-                    <a className="btn btn-default primary-btn transparent">start now</a>
+                    <a className="btn btn-default primary-btn transparent">Launch app</a>
                   </div>
                 </div>
               </Col>
